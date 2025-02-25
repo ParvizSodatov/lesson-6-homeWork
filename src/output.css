@@ -686,6 +686,10 @@ video {
   width: 25%;
 }
 
+.w-\[80\%\] {
+  width: 80%;
+}
+
 .items-center {
   align-items: center;
 }
