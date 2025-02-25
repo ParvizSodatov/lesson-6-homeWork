@@ -553,3 +553,62 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.flex {
+  display: flex;
+}
+
+.h-\[\] {
+  height: ;
+}
+
+.h-\[1\] {
+  height: 1;
+}
+
+.h-\[1vh\] {
+  height: 1vh;
+}
+
+.h-\[6vh\] {
+  height: 6vh;
+}
+
+.h-\[vh\] {
+  height: vh;
+}
+
+.h-\[4vh\] {
+  height: 4vh;
+}
+
+.h-\[3vh\] {
+  height: 3vh;
+}
+
+.w-\[50\%\] {
+  width: 50%;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.bg-yellow-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(234 179 8 / var(--tw-bg-opacity, 1));
+}
+
+.text-red-600 {
+  --tw-text-opacity: 1;
+  color: rgb(220 38 38 / var(--tw-text-opacity, 1));
+}
+
+.text-yellow-500 {
+  --tw-text-opacity: 1;
+  color: rgb(234 179 8 / var(--tw-text-opacity, 1));
+}
