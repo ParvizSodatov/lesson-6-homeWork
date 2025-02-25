@@ -558,6 +558,18 @@ video {
   margin-top: 5px;
 }
 
+.mt-\[1\] {
+  margin-top: 1;
+}
+
+.mt-\[2\] {
+  margin-top: 2;
+}
+
+.mt-\[2\%\] {
+  margin-top: 2%;
+}
+
 .block {
   display: block;
 }
@@ -576,6 +588,18 @@ video {
 
 .w-\[50\%\] {
   width: 50%;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[100\] {
+  width: 100;
+}
+
+.w-\[100\%\] {
+  width: 100%;
 }
 
 .items-center {
